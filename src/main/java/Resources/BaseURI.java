@@ -2,7 +2,8 @@ package Resources;
 
 public enum BaseURI {
 
-    REQRES_BASE_URI("https://reqres.in");
+    REQRES_BASE_URI("https://reqres.in"),
+    GO_REST_BASE_URI("https://gorest.co.in");
 
 
     String URL;
